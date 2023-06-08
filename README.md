@@ -14,6 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `Project Overview`
+![Home](https://scontent.fixr3-3.fna.fbcdn.net/v/t39.30808-6/352483248_548180710640082_18838476254621798_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=inLwlCdVzNAAX9ez57Q&_nc_ht=scontent.fixr3-3.fna&oh=00_AfCbE01KwUMChaNdaM_jCCzzS4nWoJmfgcxbh2DVBtwZWw&oe=64865E80)
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
